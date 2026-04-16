@@ -13,10 +13,9 @@ Programming Language: C#
 UI Automation: Playwright, Selenium
 BDD Framework: SpecFlow (Gherkin)
 API Testing: REST APIs, Postman, automated API frameworks
-Mobile Testing:** Appium
-CI/CD Tools:** Azure DevOps, Jenkins, GitHub Actions
+CI/CD Tools:Azure DevOps, Jenkins, GitHub Actions
 Version Control: Git, GitHub
-Test Frameworks:** NUnit / xUnit / MSTest
+Test Frameworks:NUnit / xUnit / MSTest
 Reporting:Extent Reports, Allure Reports
 
 ****Core Expertise****
