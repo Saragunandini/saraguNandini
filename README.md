@@ -45,19 +45,19 @@ Reporting:Extent Reports, Allure Reports
 - Page Object Model (POM) design pattern
 - Parallel execution and reporting support
 
-**###  BDD Framework using SpecFlow**
+**BDD Framework using SpecFlow**
 - Behaviour-driven framework using SpecFlow + Gherkin
 - Business-readable test scenarios
 - Integrated with CI/CD pipelines
 
-**###  API Automation Framework**
+**API Automation Framework**
 - Automated REST API testing framework
 - Request/response validation and schema checks
 - Data-driven testing approach
 
-****##  Connect With Me****
+**** Connect With Me****
 
-- LinkedIn: https://linkedin.com/in/yourprofile  
+- LinkedIn: https://www.linkedin.com/in/saragunandinisdet/  
 - GitHub: https://github.com/Saragunandini  
 - Email: saragu.68@gmail.com
 
