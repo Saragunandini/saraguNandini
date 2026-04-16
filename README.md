@@ -55,13 +55,12 @@ Reporting:Extent Reports, Allure Reports
 - Request/response validation and schema checks
 - Data-driven testing approach
 
-**** Connect With Me****
+**Connect With Me**
 
 - LinkedIn: https://www.linkedin.com/in/saragunandinisdet/  
 - GitHub: https://github.com/Saragunandini  
 - Email: saragu.68@gmail.com
 
-
-****## Objective****
+**Objective**
 
 Passionate about delivering **high-quality software through scalable test automation, modern frameworks, and continuous integration practices**.
