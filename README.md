@@ -39,7 +39,7 @@ Reporting:Extent Reports, Allure Reports
 
  Featured Projects
 
- -Playwright Automation Framework (C#)
+- Playwright Automation Framework (C#)
 - Scalable UI automation framework using Playwright
 - Page Object Model (POM) design pattern
 - Parallel execution and reporting support
